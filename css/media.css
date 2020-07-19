@@ -1,0 +1,72 @@
+
+@media (max-width: 576px) {
+  .navbar {
+   background-color: #21B6A8;
+  }
+  .wrapper {
+      background-color: #A3EBB1;
+  }
+  .wrapper h1 {
+    color: #18A558;
+  }
+ .wrapper h2 {
+   color: #18A558;
+  }
+.wrapper p {
+   color: #18A558;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+  .navbar {
+   background-color: #FF2768;
+  }
+  .wrapper {
+      background-color: #05E0E9;
+  }
+  .wrapper h1 {
+    color: #4E1A3D;
+  }
+ .wrapper h2 {
+   color: #4E1A3D;
+  }
+.wrapper p {
+   color: #4E1A3D;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .navbar {
+   background-color: #057DCD;
+  }
+  .wrapper {
+      background-color: #43B0F1;
+  }
+  .wrapper h1 {
+    color: #E8EEF1;
+  }
+ .wrapper h2 {
+   color: #E8EEF1;
+  }
+.wrapper p {
+   color: #E8EEF1;
+  }
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+    .navbar {
+   background-color: #D103D1;
+  }
+  .wrapper {
+      background-color: #6E3562;
+  }
+  .wrapper h1 {
+    color: #6D8343;
+  }
+ .wrapper h2 {
+   color: #A3C14A;
+  }
+.wrapper p {
+   color: #A3C14A;
+  }
+}

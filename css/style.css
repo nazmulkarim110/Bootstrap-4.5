@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    background-color: #B9B7BD;
+}
+
+.wrapper{
+    margin: 0 auto;
+    padding: 0 50px;
+    width: 80%;
+    background-color: #E7D2CC;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.wrapper h1{
+    padding-top: 30px;
+}
+
+.wrapper h2{
+    padding: 10px;
+}
+
+.wrapper p{
+    padding: 10px;
+}
+
+   
